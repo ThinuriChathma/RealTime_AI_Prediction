@@ -256,6 +256,20 @@ docker run -p 8000:8000 mlops-app
 ```
 
 ---
+# Monitoring Dashboard
+
+A lightweight Streamlit dashboard was implemented for:
+- Model monitoring
+- Accuracy tracking
+- Drift monitoring
+- Retraining status
+- System health monitoring
+
+Run dashboard:
+
+```bash
+streamlit run dashboard.py
+```
 
 # Future Improvements
 
