@@ -270,7 +270,7 @@ Run dashboard:
 ```bash
 streamlit run dashboard.py
 ```
-
+Project updated for CI testing
 # Future Improvements
 
 - Cloud deployment
